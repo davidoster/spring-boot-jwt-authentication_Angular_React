@@ -10,7 +10,7 @@ React  : https://github.com/davidoster/react-jwt-auth
 	
 
 Registration and Forgot password with email Authorization
-
+https://www.codejava.net/frameworks/spring-boot/spring-security-forgot-password-tutorial
 	
 File upload on public and private space with filename renaming
 Spring: https://github.com/davidoster/spring-boot-upload-multipart-files
@@ -23,3 +23,4 @@ Simple chat with Web Sockets
 
 	
 Relationships using Hibernate entities, especially One To Many and Many To Many
+See spring-boot-server folder!
