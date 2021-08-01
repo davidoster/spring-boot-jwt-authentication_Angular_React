@@ -1,0 +1,21 @@
+Full Project Git Repo for ALL
+https://github.com/davidoster/spring-boot-jwt-authentication_Angular_React
+
+Spring Boot REST API with Security (JWT & OAuth2)
+https://github.com/davidoster/angular-11-spring-boot-jwt-authentication
+	
+Front End Security με sample σε Angular & React (JWT, OAuth2)
+Angular: https://github.com/davidoster/angular-11-spring-boot-jwt-authentication
+React  : https://github.com/davidoster/react-jwt-auth 
+	
+
+Registration and Forgot password with email Authorization
+
+	
+File upload on public and private space with filename renaming
+
+	
+Simple chat with Web Sockets
+
+	
+Relationships using Hibernate entities, especially One To Many and Many To Many
