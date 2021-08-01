@@ -13,9 +13,13 @@ Registration and Forgot password with email Authorization
 
 	
 File upload on public and private space with filename renaming
+Spring: https://github.com/davidoster/spring-boot-upload-multipart-files
+Angular: https://github.com/davidoster/angular-11-file-upload
+React: https://github.com/davidoster/react-hooks-file-upload
 
 	
 Simple chat with Web Sockets
+
 
 	
 Relationships using Hibernate entities, especially One To Many and Many To Many
